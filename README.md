@@ -2,3 +2,5 @@
 PCB multiusos para ESP8266-01
 
 Mas info sobre el proyecto en esta entrada: https://akirasan.net/esp8266pcb_base/
+
+[](https://github.com/akirasan/esp8266_multiusos/blob/main/images/DSC_4663.JPG)
